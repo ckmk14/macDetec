@@ -2,9 +2,7 @@
 
 import os
 import logging
-import pcapy
 import dpkt
-import binascii
 import socket
 from struct import unpack
 from dpkt.compat import compat_ord
